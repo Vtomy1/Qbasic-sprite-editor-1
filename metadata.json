@@ -1,0 +1,6 @@
+{
+  "name": "QBasic Sprite Editor",
+  "description": "Retro pixel art sprite editor for MS-DOS QBasic, generating executable .BAS code with PUT/GET arrays, SCREEN 13 palettes, and an interactive DOS simulator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
